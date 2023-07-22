@@ -1,0 +1,29 @@
+{
+  "name": "iserworld",
+  "version": "0.0.1",
+  "factorio_version": "1.1",
+  "title": "Iserworld",
+  "author": "Iser",
+  "homepage": "https://github.com/Iser3000/Iserworld",
+  "description": "Combopack based on Seablock and Freight Forwarding logistics",
+  "dependencies": [
+    "base",
+    "SeaBlockMetaPack",
+    "cargo-ships",
+    "CanalBuilderMAV",
+    "IntermodalContainers",
+    "Mini_Trains",
+    "SpidertronPatrols >= 2.4.3",
+    "lex-aircraft",
+    "Hovercrafts",
+    "beautiful_bridge_railway_Cargoships",
+    "jetpack",
+    "wret-beacon-rebalance-mod",
+    "deadlock-beltboxes-loaders",
+    "deadlock-integrations",
+    "? FNEI",
+    "? helmod",
+    "! rso-mod",
+    "! DeadlockCrating"
+  ]
+}
